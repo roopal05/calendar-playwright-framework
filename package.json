@@ -1,0 +1,22 @@
+{
+  "name": "calender-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.6"
+  }
+}
